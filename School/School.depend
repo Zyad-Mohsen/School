@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1697377545 source:e:\diploma\school\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1699219909 source:e:\diploma\projects\school\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Student.h"
+
+1699567948 e:\diploma\projects\school\student.h
+
+1699567051 source:e:\diploma\projects\school\student.c
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+	"Student.h"
+	<unistd.h>
+
+1698610375 source:e:\diploma\projects\school\string.c
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+
+1698610375 e:\diploma\projects\school\string.h
+
+1698598261 source:e:\diploma\projects\school\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
